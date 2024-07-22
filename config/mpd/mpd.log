@@ -1,0 +1,562 @@
+Jul 20 12:26 : exception: Failed to open '/home/cikey/.mpd/mpdstate': No such file or directory
+Jul 20 13:33 : update: added /Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus
+Jul 20 13:33 : update: added /Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus
+Jul 20 13:33 : update: added /Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus
+Jul 20 13:38 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:39 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jul 20 13:42 : client: [2093] malformed command "GET / HTTP/1.1"
+Jul 20 13:42 : client: [2094] malformed command "GET /favicon.ico HTTP/1.1"
+Jul 20 13:42 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:51 : exception: Failed to open audio output
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 13:56 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 13:56 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:01 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:01 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus; Failed to open '/home/cikey/Música/Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus"
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus; Failed to open '/home/cikey/Música/Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus': No such file or directory
+Jul 20 14:02 : exception: Failed to decode /home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus; Failed to open '/home/cikey/Música/Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus': No such file or directory
+Jul 20 14:02 : player: played "Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus"
+Jul 20 14:04 : update: removing Maroon 5 - Sugar (Official Music Video) [09R8_2nJtjg].opus
+Jul 20 14:04 : update: removing Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video) [KRaWnd3LJfs].opus
+Jul 20 14:04 : update: removing Maroon 5 - One More Night (Official Music Video) [fwK7ggA3-bU].opus
+Jul 20 14:11 : exception: Bad song index
+Jul 20 14:11 : exception: Bad song index
+Jul 20 14:39 : exception: Bad song index
+Jul 20 14:40 : exception: Bad song index
+Jul 20 14:40 : exception: Bad song index
+Jul 20 14:40 : update: added Spotify/The Struts - Body Talks.mp3
+Jul 20 14:40 : update: added Spotify/The Struts - Kiss This.mp3
+Jul 20 14:42 : update: removing Spotify/The Struts - Body Talks.mp3
+Jul 20 14:42 : update: removing Spotify/The Struts - Kiss This.mp3
+Jul 20 14:42 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 14:43 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 14:43 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 14:43 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 14:43 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:00 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:00 : exception: Failed to decode /home/cikey/Música/Spotify/The Struts - Kiss This.mp3; Failed to open '/home/cikey/Música/Spotify/The Struts - Kiss This.mp3': No such file or directory
+Jul 20 15:01 : update: added Spotify/The Struts - Body Talks.mp3
+Jul 20 15:01 : update: added Spotify/Bleeker - Highway.mp3
+Jul 20 15:01 : update: added Spotify/The Struts - Kiss This.mp3
+Jul 20 15:17 : exception: Bad song index
+Jul 20 15:30 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:36 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 15:38 : exception: Failed to create /home/cikey/.mpd/playlists/HardMode.m3u: No such file or directory
+Jul 20 15:39 : exception: Failed to create /home/cikey/.mpd/playlists/HardMode.m3u: No such file or directory
+Jul 20 15:39 : exception: Failed to create /home/cikey/.mpd/playlists/HardMode.m3u: No such file or directory
+Jul 20 15:39 : exception: Failed to create /home/cikey/.mpd/playlists/HardMode.m3u: No such file or directory
+Jul 20 15:41 : exception: Failed to create /home/cikey/.mpd/playlists/HardMode.m3u: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:53 : exception: Failed to open /home/cikey/.mpd/playlists: No such file or directory
+Jul 20 15:58 : exception: Failed to create /home/cikey/.mpd/playlists/HardMode.m3u: No such file or directory
+Jul 20 16:10 : exception: Playlist already exists
+Jul 20 16:26 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 16:38 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 16:42 : exception: No such directory
+Jul 20 16:45 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 17:10 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jul 20 17:11 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 17:14 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 17:17 : player: played "Spotify/The Struts - Kiss This.mp3"
+Jul 20 17:18 : update: removing Spotify/The Struts - Body Talks.mp3
+Jul 20 17:18 : update: removing Spotify/The Struts - Kiss This.mp3
+Jul 20 17:18 : update: removing Spotify/Bleeker - Highway.mp3
+Jul 20 17:18 : exception: Bad song index
+Jul 20 17:18 : exception: Bad song index
+Jul 20 17:18 : exception: Bad song index
+Jul 20 17:18 : exception: Bad song index
+Jul 20 17:25 : exception: Bad song index
+Jul 20 17:25 : exception: Bad song index
+Jul 20 17:25 : exception: Bad song index
+Jul 20 17:25 : exception: Bad song index
+Jul 20 18:01 : exception: Bad song index
+Jul 20 18:01 : exception: Bad song index
+Jul 20 18:01 : exception: Bad song index
+Jul 20 18:01 : exception: Bad song index
+Jul 20 18:01 : exception: Bad song index
+Jul 20 18:01 : exception: Bad song index
+Jul 20 18:03 : client: [3] malformed command "GET / HTTP/1.1"
+Jul 20 18:03 : client: [4] malformed command "GET /favicon.ico HTTP/1.1"
+Jul 20 18:34 : exception: Failed to open '/home/cikey/.mpd/playlists/list.m3u': No such file or directory
+Jul 20 18:34 : exception: No such playlist
+Jul 20 18:34 : exception: Failed to open '/home/cikey/.mpd/playlists/ls.m3u': No such file or directory
+Jul 20 18:34 : exception: No such playlist
+Jul 20 18:39 : exception: Bad song index
