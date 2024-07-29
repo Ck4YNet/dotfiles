@@ -143,7 +143,7 @@ alias musica="ncmpcpp --config .ncmpcp/config"
 alias ytaudio="yt-dlp -f 'ba' -x --no-playlist"
 
 alias obsidian="md.obsidian.Obsidian"
-alias nvim="neovide"
+#alias nvim="neovide"
 alias cat='bat'
 alias catn='/bin/cat'
 alias catnl='/usr/bin/bat --paging=never'
