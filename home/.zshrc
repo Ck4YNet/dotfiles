@@ -139,11 +139,14 @@ alias update="paru -Syu --nocombinedupgrade"
 alias vm-on="sudo systemctl start libvirtd.service"
 alias vm-off="sudo systemctl stop libvirtd.service"
 
+# ALIAS Productividad
+alias obsidian="md.obsidian.Obsidian"
 alias bytop="bpytop"
 alias musica="ncmpcpp --config .ncmpcp/config"
 alias ytaudio-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
 
-alias obsidian="md.obsidian.Obsidian"
+# ALIAS Fast command
+
 #alias nvim="neovide"
 alias cat='bat'
 alias catn='/bin/cat'
