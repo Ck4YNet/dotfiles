@@ -139,14 +139,16 @@ alias update="paru -Syu --nocombinedupgrade"
 alias vm-on="sudo systemctl start libvirtd.service"
 alias vm-off="sudo systemctl stop libvirtd.service"
 
+alias bytop="bpytop"
 alias musica="ncmpcpp --config .ncmpcp/config"
-alias ytaudio="yt-dlp -f 'ba' -x --no-playlist"
+alias ytaudio-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
 
 alias obsidian="md.obsidian.Obsidian"
 #alias nvim="neovide"
 alias cat='bat'
 alias catn='/bin/cat'
 alias catnl='/usr/bin/bat --paging=never'
+alias catmd="mdcat"
 alias ll='lsd -lh --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
 alias l='lsd --group-dirs=first'
