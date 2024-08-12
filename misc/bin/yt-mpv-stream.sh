@@ -8,6 +8,16 @@ fi
 
 URL=$1
 
+# Preguntar al usuario si quiere subtítulos
+read -p "¿Deseas subtitular el video? (s/n): " SUBTITULAR
+
+# Si el usuario decide no subtitular
+if [ "$SUBTITULAR" != "s" ]; then
+  echo "Reproduciendo el video sin subtítulos..."
+  mpv "$URL"
+  exit 0
+fi
+
 # Directorio temporal para almacenar subtítulos
 TEMP_DIR=$(mktemp -d)
 
@@ -23,9 +33,9 @@ subliminal download -l es --output "$TEMP_DIR" "$URL"
 SUB_FILE=$(find "$TEMP_DIR" -name "*.es.srt" | head -n 1)
 
 if [ -z "$SUB_FILE" ]; then
-  echo "No se encontraron subtítulos en español."
+  echo "No se encontraron subtítulos en español. Reproduciendo el video sin subtítulos..."
+  mpv "$URL"
 else
-  # Reproducir el video en streaming con MPV y los subtítulos en español
   echo "Reproduciendo el video en streaming con subtítulos en español..."
   mpv "$URL" --sub-file="$SUB_FILE"
 fi
