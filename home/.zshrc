@@ -141,17 +141,21 @@ alias vm-off="sudo systemctl stop libvirtd.service"
 
 # ALIAS Productividad
 alias obsidian="md.obsidian.Obsidian"
+alias yt-stream="~/.local/bin/yt-mpv-stream.sh"
+alias superd="superproductivity"
 alias bytop="bpytop"
-alias musica="ncmpcpp --config .ncmpcp/config"
-alias ytaudio-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
+alias musica="ncmpcpp --config ~/.config/ncmpcpp/config"
+alias yt-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
+
+# DOCKER OFFENSIVE CTF
+alias offedock="docker run --rm -it --name my-offensive-docker offensive-docker /bin/zsh"
 
 # ALIAS Fast command
-
-#alias nvim="neovide"
 alias cat='bat'
 alias catn='/bin/cat'
 alias catnl='/usr/bin/bat --paging=never'
 alias catmd="mdcat"
+#alias nvim="neovide"
 alias ll='lsd -lh --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
 alias l='lsd --group-dirs=first'
