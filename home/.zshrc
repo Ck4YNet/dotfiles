@@ -139,7 +139,7 @@ alias update="paru -Syu --nocombinedupgrade"
 alias vm-on="sudo systemctl start libvirtd.service"
 alias vm-off="sudo systemctl stop libvirtd.service"
 
-# ALIAS Productividad
+# ALIAS PRODUCTIVITY 
 alias obsidian="md.obsidian.Obsidian"
 alias yt-stream="~/.local/bin/yt-mpv-stream.sh"
 alias superd="superproductivity"
@@ -147,17 +147,36 @@ alias bytop="bpytop"
 alias musica="ncmpcpp --config ~/.config/ncmpcpp/config"
 alias yt-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
 
-# DOCKER OFFENSIVE CTF HACKTHEBOX
+############# BLOG ######################
+#alias bloggin="docker run --rm -p 4000:4000 -v $(pwd):/srv/Blog jekyll-blog"
+
+############# HACKTHEBOX ################
+
+# ejecución de vpn para HACKTHEBOX mediante Docker
 alias vpnhtb="docker run --rm -it --privileged -v $PWD:/offensive/vpn --cap-add=NET_ADMIN --device=/dev/net/tun --sysctl net.ipv6.conf.all.disable_ipv6=0 --name my-offensive-docker pentest-docker /bin/zsh"
 # Ejecutar terminales con mi docker ofensivo
 alias execPentest="docker exec -it pentest-docker /bin/zsh"
-
 alias imagenOfensiva="docker run --rm -it --name my-offensive-docker aaaguirrep/offensive-docker /bin/zsh"
 #####alias pentestSAVE="docker run --rm -it -v /home/cikey/Escritorio/Cikey/PJ/Pentest/Learning/CTF:/offensive --name my-offensive-docker aaaguirrep/offensive-docker /bin/zsh"
 #####alias vpnthm="docker run --rm -it --privileged -v $PWD:/offensive --cap-add=NET_ADMIN --device=/dev/net/tun --sysctl net.ipv6.conf.all.disable_ipv6=0 --name my-offensive-docker aaaguirrep/offensive-docker /bin/zsh"
 
-# DOCKER with VULNHUB
-alias vulnhub="d.."
+############# DOCKERLABS #################
+
+# Construccion de imagen dockerlab dentro de la carpeta con el dockerfile modificado
+alias dockerbuild="docker build -t Dockerlab . 
+docker run --rm -it --privileged \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    -v $PWD:/offensive/dockerlabs \
+    --name my-offensive-docker \
+    pentest-docker-custom /bin/zsh"
+
+# Correr imagen dockerlab
+alias dockerlab="
+docker run --rm -it --privileged \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    -v $PWD:/offensive/dockerlabs \
+    --name my-offensive-docker \
+    pentest-docker /bin/zsh"
 
 # ALIAS Fast command
 alias cat='bat'
