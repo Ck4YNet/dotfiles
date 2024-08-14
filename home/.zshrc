@@ -147,8 +147,17 @@ alias bytop="bpytop"
 alias musica="ncmpcpp --config ~/.config/ncmpcpp/config"
 alias yt-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
 
-# DOCKER OFFENSIVE CTF
-alias offedock="docker run --rm -it --name my-offensive-docker offensive-docker /bin/zsh"
+# DOCKER OFFENSIVE CTF HACKTHEBOX
+alias vpnhtb="docker run --rm -it --privileged -v $PWD:/offensive/vpn --cap-add=NET_ADMIN --device=/dev/net/tun --sysctl net.ipv6.conf.all.disable_ipv6=0 --name my-offensive-docker pentest-docker /bin/zsh"
+# Ejecutar terminales con mi docker ofensivo
+alias execPentest="docker exec -it pentest-docker /bin/zsh"
+
+alias imagenOfensiva="docker run --rm -it --name my-offensive-docker aaaguirrep/offensive-docker /bin/zsh"
+#####alias pentestSAVE="docker run --rm -it -v /home/cikey/Escritorio/Cikey/PJ/Pentest/Learning/CTF:/offensive --name my-offensive-docker aaaguirrep/offensive-docker /bin/zsh"
+#####alias vpnthm="docker run --rm -it --privileged -v $PWD:/offensive --cap-add=NET_ADMIN --device=/dev/net/tun --sysctl net.ipv6.conf.all.disable_ipv6=0 --name my-offensive-docker aaaguirrep/offensive-docker /bin/zsh"
+
+# DOCKER with VULNHUB
+alias vulnhub="d.."
 
 # ALIAS Fast command
 alias cat='bat'
@@ -162,7 +171,9 @@ alias l='lsd --group-dirs=first'
 alias lla='lsd -lha --group-dirs=first'
 alias ls='lsd --group-dirs=first'
 
-
+# export PATH para ultima versión de Ruby
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
 
 # Iniciar mpd si no está corriendo
 if ! pgrep -x "mpd" > /dev/null; then
