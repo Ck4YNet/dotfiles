@@ -8,7 +8,7 @@ return {
     workspaces = {
       {
         name = "Personal",
-        path = "~/Escritorio/Daily/NoteSync/Obsidian-ARCH/HACKING/",
+        path = "~/Escritorio/Cikey/Profesional/Obsidian/Cybersecurity/",
       },
     },
     completion = {
