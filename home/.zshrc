@@ -144,7 +144,7 @@ alias obsidian="md.obsidian.Obsidian 2>/dev/null & disown"
 alias yt-stream="~/.local/bin/yt-mpv-stream.sh"
 alias superd="superproductivity"
 alias bytop="bpytop"
-alias musica="ncmpcpp --config ~/.config/ncmpcpp/config"
+alias music="ncmpcpp --config ~/.config/ncmpcpp/config"
 alias yt-music="yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --add-metadata --embed-thumbnail -ciw"
 
 #################### BLOG ##############################
@@ -170,7 +170,7 @@ docker run --rm -it --privileged \
 
 
 # ALIAS Fast command
-alias cat='bat'
+alias cat='bat --theme=base16'
 alias catn='/bin/cat'
 alias catnl='/usr/bin/bat --paging=never'
 alias catmd="mdcat"
@@ -190,8 +190,21 @@ if ! pgrep -x "mpd" > /dev/null; then
     mpd ~/.mpd/mpd.conf
 fi
 
+# ExtractPort para mi contenedor ofnesivo:
+# Extract nmap information
+function extractPorts(){
+	ports="$(cat $1 | grep -oP '\d{1,5}/open' | awk '{print $1}' FS='/' | xargs | tr ' ' ',')"
+	ip_address="$(cat $1 | grep -oP '\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}' | sort -u | head -n 1)"
+	echo -e "\n[*] Extracting information...\n" > extractPorts.tmp
+	echo -e "\t[*] IP Address: $ip_address"  >> extractPorts.tmp
+	echo -e "\t[*] Open ports: $ports\n"  >> extractPorts.tmp
+	echo $ports | tr -d '\n' | xclip -sel clip
+	echo -e "[*] Ports copied to clipboard\n"  >> extractPorts.tmp
+	cat extractPorts.tmp; rm extractPorts.tmp
+}
 #  ┌─┐┬ ┬┌┬┐┌─┐  ┌─┐┌┬┐┌─┐┬─┐┌┬┐
 #  ├─┤│ │ │ │ │  └─┐ │ ├─┤├┬┘ │
 #  ┴ ┴└─┘ ┴ └─┘  └─┘ ┴ ┴ ┴┴└─ ┴
 $HOME/.local/bin/colorscript -r
 
+export LD_LIBRARY_PATH=/usr/lib/daq:$LD_LIBRARY_PATH
