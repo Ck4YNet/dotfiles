@@ -141,7 +141,7 @@ const CONFIG = {
       links: [
         {
           name: "C$KEY",
-          link: "https://github.com/CK3Y",
+          link: "https://ck4ynet.gitbook.io",
         },
         {
           name: "Arch Linux",
@@ -162,20 +162,20 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "YouTube",
-          link: "https://www.youtube.com",
+          name: "C++",
+          link: "https://www.youtube.com/playlist?list=PLQRFzsIQFmxoEF2Q99oap0HQTuoGcm4F0",
         },
         {
-          name: "Hack4u",
-          link: "https://hack4u.io/",
+          name: "Python",
+          link: "https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_",
         },
         {
-          name: "InfoMachine",
-          link: "https://infosecmachines.io//",
+          name: "Bash",
+          link: "https://www.youtube.com/watch?v=RUorAzaDftg&t=873s",
         },
         {
-          name: "Mail-Calendar",
-          link: "https://account.proton.me/es-es/apps",
+          name: "Assembler",
+          link: "https://www.youtube.com/playlist?list=PLON3-BoIoWiV0Te8sxsvXw8u2k3DmBZun",
         },
       ],
     },
@@ -188,20 +188,20 @@ const CONFIG = {
       id: "1",
       links: [
         {
-          name: "Spotify",
-          link: "https://www.spotify.com",
+          name: "CrowdStrike",
+          link: "https://www.crowdstrike.com/en-us/blog/",
         },
         {
-          name: "Discord",
-          link: "https://discord.com/channels/@me",
+          name: "HackerPlayer",
+          link: "https://www.hackplayers.com/",
         },
         {
-          name: "Facebook",
-          link: "https://www.facebook.com",
+          name: "TheHackerNews",
+          link: "https://thehackernews.com/",
         },
         {
-          name: "Twitter",
-          link: "https://twitter.com",
+          name: "HispaSec",
+          link: "https://unaaldia.hispasec.com/",
         },
       ],
     },
