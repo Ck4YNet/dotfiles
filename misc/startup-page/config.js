@@ -163,11 +163,11 @@ const CONFIG = {
       links: [
         {
           name: "C++",
-          link: "https://www.youtube.com/playlist?list=PLQRFzsIQFmxoEF2Q99oap0HQTuoGcm4F0",
+          link: "https://www.youtube.com/watch?v=uqhqTsMEmL0&list=PLQRFzsIQFmxoEF2Q99oap0HQTuoGcm4F0&index=3",
         },
         {
           name: "Python",
-          link: "https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_",
+          link: "https://www.youtube.com/watch?v=_uPVSW0cF6c&t_",
         },
         {
           name: "Bash",
