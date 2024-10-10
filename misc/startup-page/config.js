@@ -210,20 +210,20 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "Programming",
-          link: "https://www.reddit.com/r/programming/",
+          name: "Redes",
+          link: "https://www.youtube.com/playlist?list=PLbcS-eIZbbxWSCANJXiXj_5zBriR81m54",
         },
         {
-          name: "Python",
-          link: "https://www.python.org/",
+          name: "Basic",
+          link: "https://www.youtube.com/playlist?list=PLQRFzsIQFmxrqL5ViA0k3rsR5H0oNKYxE",
         },
         {
-          name: "Go",
-          link: "https://www.reddit.com/r/golang/",
+          name: "Lógica",
+          link: "https://www.youtube.com/watch?v=TdITcVD64zI",
         },
         {
-          name: "Rust",
-          link: "https://www.reddit.com/r/rust/",
+          name: "MalDev",
+          link: "https://www.youtube.com/playlist?list=PL_z_ep2nxC57sHAlCcvvaYRrpdMIQXri1",
         },
       ],
     },
