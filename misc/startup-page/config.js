@@ -144,7 +144,7 @@ const CONFIG = {
           link: "https://ck4ynet.gitbook.io",
         },
         {
-          name: "Arch Linux",
+          name: "Arch",
           link: "https://archlinux.org/",
         },
         {
@@ -152,7 +152,7 @@ const CONFIG = {
           link: "https://chat.openai.com/",
         },
         {
-          name: "MonkeyType",
+          name: "FastType",
           link: "https://monkeytype.com/",
         },
       ],
@@ -166,15 +166,15 @@ const CONFIG = {
           link: "https://www.youtube.com/watch?v=uqhqTsMEmL0&list=PLQRFzsIQFmxoEF2Q99oap0HQTuoGcm4F0&index=3",
         },
         {
-          name: "Python",
+          name: "PY",
           link: "https://www.youtube.com/watch?v=_uPVSW0cF6c&t_",
         },
         {
-          name: "Bash",
+          name: "Sh",
           link: "https://www.youtube.com/watch?v=RUorAzaDftg&t=873s",
         },
         {
-          name: "Assembler",
+          name: "Asm",
           link: "https://www.youtube.com/playlist?list=PLON3-BoIoWiV0Te8sxsvXw8u2k3DmBZun",
         },
       ],

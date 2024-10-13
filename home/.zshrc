@@ -10,6 +10,7 @@ export EDITOR='nvim'
 export BROWSER='firefox-esr'
 export HISTORY_IGNORE="(ls|cd|pwd|exit|sudo reboot|history|cd -|cd ..)"
 export MPD_CONF_FILE=~/.mpd/mpd.conf mpd
+export ADW_DISABLE_PORTAL=1
 
 if [ -d "$HOME/.local/bin" ] ;
   then PATH="$HOME/.local/bin:$PATH"
@@ -175,6 +176,10 @@ alias catn='/bin/cat'
 alias catnl='/usr/bin/bat --paging=never'
 alias catmd="mdcat"
 alias grep="grep --color=auto"
+alias wo="pomodoro 'Work'"
+alias br="pomodoro 'Break'"
+alias re="pomodoro 'Read'"
+alias me="pomodoro 'Medit'"
 #alias nvim="neovide"
 alias ll='lsd -lh --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
@@ -204,24 +209,24 @@ function extractPorts(){
 	cat extractPorts.tmp; rm extractPorts.tmp
 }
 
-
 # POMODORO SHELL
 declare -A pomo_options
-pomo_options["work"]="50"
-pomo_options["break"]="10"
+pomo_options["Work"]="50"
+pomo_options["Medit"]="2"
+pomo_options["Read"]="2"
+pomo_options["Break"]="10"
 
+
+# POMODORO FUNCTIONS
 pomodoro () {
-  if [ -n "$1" -a -n "${pomo_options["$1"]}" ]; then
-  val=$1
-  echo $val | lolcat
-  timer ${pomo_options["$val"]}m
-  spd-say "'$val' session done"
+  if [ -n "$1" ] && [ -n "${pomo_options["$1"]}" ]; then
+    val=$1
+    echo $val | lolcat
+
+    # Iniciar temporizador y manejar la cancelación
+    (timer ${pomo_options["$val"]}m) && notify-send "'$val' session done" || echo "CANCELLED"
   fi
 }
-
-alias wo="pomodoro 'work'"
-alias br="pomodoro 'break'"
-
 
 #  ┌─┐┬ ┬┌┬┐┌─┐  ┌─┐┌┬┐┌─┐┬─┐┌┬┐
 #  ├─┤│ │ │ │ │  └─┐ │ ├─┤├┬┘ │
