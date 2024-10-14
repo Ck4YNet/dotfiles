@@ -180,6 +180,7 @@ alias wo="pomodoro 'Work'"
 alias br="pomodoro 'Break'"
 alias re="pomodoro 'Read'"
 alias me="pomodoro 'Medit'"
+alias tes="pomodoro 'test'"
 #alias nvim="neovide"
 alias ll='lsd -lh --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
@@ -216,15 +217,18 @@ pomo_options["Medit"]="2"
 pomo_options["Read"]="2"
 pomo_options["Break"]="10"
 
-
 # POMODORO FUNCTIONS
 pomodoro () {
   if [ -n "$1" ] && [ -n "${pomo_options["$1"]}" ]; then
     val=$1
     echo $val | lolcat
-
-    # Iniciar temporizador y manejar la cancelación
-    (timer ${pomo_options["$val"]}m) && notify-send "'$val' session done" || echo "CANCELLED"
+    # Ejecutar el temporizador y manejar la cancelación
+    if (timer ${pomo_options["$val"]}m); then
+      dunstify "'$val' session done" -i /home/cikey/.config/bspwm/assets/timer.png -t 5000
+      paplay /usr/share/sounds/freedesktop/stereo/complete.oga  # Reproducir sonido
+    else
+      echo "CANCELLED"
+    fi
   fi
 }
 
