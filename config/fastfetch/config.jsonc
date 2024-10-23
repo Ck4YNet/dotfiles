@@ -50,9 +50,14 @@
       "keyColor": "38;5;81" // Light Blue
     },
     {
+      "type": "theme",
+      "key": "  󰉼 Theme",
+      "keyColor": "38;5;220" // Yellow
+    },
+    {
       "type": "terminal",
       "key": "   Terminal",
-      "keyColor": "90" // Grey
+      "keyColor": "38;5;250" // Black
     },
     {
       "type": "media",
@@ -67,7 +72,7 @@
     },
     {
       "type": "uptime",
-      "key": "  ",
+      "key": "   ",
       "keyColor": "34",
     },
     {
@@ -84,7 +89,7 @@
     {
       "type": "title",
       "key": "   User",
-      "keyColor": "38;5;250" // Black
+      "keyColor": "38;5;253" // White
     },
     {
       "type": "custom",

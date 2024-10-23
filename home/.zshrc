@@ -180,8 +180,10 @@ alias wo="pomodoro 'Work'"
 alias br="pomodoro 'Break'"
 alias re="pomodoro 'Read'"
 alias me="pomodoro 'Medit'"
-alias tes="pomodoro 'test'"
-#alias nvim="neovide"
+alias jo="pomodoro 'Journaling'"
+alias more="pomodoro 'More'"
+alias neofetch="fastfetch"
+
 alias ll='lsd -lh --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
 alias l='lsd --group-dirs=first'
@@ -214,8 +216,11 @@ function extractPorts(){
 declare -A pomo_options
 pomo_options["Work"]="50"
 pomo_options["Medit"]="2"
-pomo_options["Read"]="2"
+pomo_options["Read"]="10"
+pomo_options["Journaling"]="10"
+pomo_options["More"]="2"
 pomo_options["Break"]="10"
+
 
 # POMODORO FUNCTIONS
 pomodoro () {
@@ -224,7 +229,7 @@ pomodoro () {
     echo $val | lolcat
     # Ejecutar el temporizador y manejar la cancelación
     if (timer ${pomo_options["$val"]}m); then
-      dunstify "'$val' session done" -i /home/cikey/.config/bspwm/assets/timer.png -t 5000
+      dunstify "'$val' session done" -i /home/cikey/.config/bspwm/assets/timer.png -t 50000
       paplay /usr/share/sounds/freedesktop/stereo/complete.oga  # Reproducir sonido
     else
       echo "CANCELLED"
