@@ -182,6 +182,7 @@ alias re="pomodoro 'Read'"
 alias me="pomodoro 'Medit'"
 alias jo="pomodoro 'Journaling'"
 alias more="pomodoro 'More'"
+alias ex="pomodoro 'Extras'"
 alias neofetch="fastfetch"
 
 alias ll='lsd -lh --group-dirs=first'
@@ -214,12 +215,13 @@ function extractPorts(){
 
 # POMODORO SHELL
 declare -A pomo_options
-pomo_options["Work"]="50"
-pomo_options["Medit"]="2"
-pomo_options["Read"]="10"
-pomo_options["Journaling"]="10"
-pomo_options["More"]="2"
-pomo_options["Break"]="10"
+pomo_options["Work"]="45"
+pomo_options["Medit"]="5"
+pomo_options["Read"]="20"
+pomo_options["Journaling"]="20"
+pomo_options["More"]="5"
+pomo_options["Extras"]="30"
+pomo_options["Break"]="15"
 
 
 # POMODORO FUNCTIONS
