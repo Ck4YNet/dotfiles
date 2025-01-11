@@ -217,7 +217,7 @@ function extractPorts(){
 declare -A pomo_options
 pomo_options["Work"]="45"
 pomo_options["Medit"]="5"
-pomo_options["Read"]="20"
+pomo_options["Read"]="2"
 pomo_options["Journaling"]="20"
 pomo_options["More"]="5"
 pomo_options["Extras"]="30"
