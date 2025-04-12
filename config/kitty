@@ -1,0 +1,55 @@
+include current-theme.conf
+
+font_family      JetBrainsMono NF
+font_size 19
+
+cursor_shape block
+cursor_stop_blinking_after 0
+
+scrollback_lines 2000
+
+mouse_hide_wait 0
+
+select_by_word_characters @-./_~?&=%+#a
+
+enable_audio_bell no
+bell_on_tab "🔔 "
+
+
+remember_window_size  yes
+window_border_width 0.1pt
+draw_minimal_borders yes
+
+window_padding_width 10
+
+inactive_text_alpha 0.7
+
+hide_window_decorations yes
+
+confirm_os_window_close 0
+
+tab_bar_style powerline
+
+# Habilitar sombra en las ventanas de Kitty
+window_shadow yes
+
+# Ajustar el desplazamiento de la sombra
+window_shadow_offset 8  # Puedes aumentar este valor para más sombra
+
+# Ajustar el radio de la sombra
+window_shadow_radius 11  # El tamaño de la sombra
+
+# Ajustar el color de la sombra
+window_shadow_color rgba(0, 0, 0, 0.3)  # Sombra negra con opacidad del 30%
+
+# Establecer la opacidad inicial
+  background_opacity 0.4
+
+# Atajo para aumentar la transparencia (Ctrl+Alt+=)
+map ctrl+alt+= increase_opacity
+
+# Atajo para disminuir la transparencia (Ctrl+Alt+-)
+map ctrl+alt+- decrease_opacity
+
+# Configuracion para arrastrar directorio actual de trabajo al hacer un CTROL+SHIFT+ENTER
+map ctrl+shift+enter new_window_with_cwd
